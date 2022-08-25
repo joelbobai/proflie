@@ -63,6 +63,7 @@ export default function Contact() {
                         </div>
 
                         <div>
+                           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                             <a href='' className='button button--flex'>
                                 Send Message
                                 <UilMessage  className='button__icon'/>
