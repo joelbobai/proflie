@@ -35,6 +35,7 @@ export default function About() {
                         </div>
                     </div>
                         <div className='about__buttons'>
+                                    jsx-a11y/anchor-is-valid
                             <a download='' href='' className='button button--flex'>
                                Download CV<UilDownloadAlt className='button__icon' />
                             </a>
