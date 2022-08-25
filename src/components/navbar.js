@@ -80,6 +80,7 @@ export default function Navbar() {
   return (
        <header className='header'>
          <nav className='nav container'>
+      {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a href='#' className='nav__logo'>Alexa</a>
              
              <div className={`nav__menu ${navState}`} id='nav-menu'>
