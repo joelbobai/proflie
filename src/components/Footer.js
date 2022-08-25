@@ -19,23 +19,29 @@ export default function Footer() {
 
               <ul className='footer__links'>
                  <li>
+                  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                     <a href='#services' className='footer__link'>Services</a>
                  </li>
                  <li>
+                  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                     <a href='#portfolio' className='footer__link'>Portfolio</a>
                  </li>
                  <li>
+                  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                     <a href='#contact' className='footer__link'>Contact Me</a>
                  </li>
               </ul>
 
                <div className='footer__socials'>
+                  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                   <a href='' className='footer__social'>
                       <UilFacebookF /> 
                   </a>
+                  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                   <a href='' className='footer__social'>
                       <UilInstagram />
                     </a>
+                    {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                     <a href='' className='footer__social'>
                       <UilTwitterAlt />
                     </a>
