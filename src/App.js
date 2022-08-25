@@ -14,7 +14,7 @@ function App() {
 // *Purple 250 - Green 142 - Blue 230 - Pink 340
 useEffect(() => {
   alanBtn({
-    key: 'd7169f8da06de7558f655a3d024d77072e956eca572e1d8b807a3e2338fdd0dc/stage',
+    key: '8876bf50dc17d5042973e3e1a623b3172e956eca572e1d8b807a3e2338fdd0dc/stage',
     onCommand: (commandData) => {
       
       switch(commandData.command) {
