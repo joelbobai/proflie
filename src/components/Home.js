@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import '../css/home.css';
 import { UilLinkedinAlt } from '@iconscout/react-unicons';
 import { UilDribbble } from '@iconscout/react-unicons';
@@ -8,26 +7,26 @@ import { UilMouseAlt } from '@iconscout/react-unicons';
 import { UilArrowDown } from '@iconscout/react-unicons';
 import MeIcon from '../MeIcon';
 
-{/* <div className='home__blob'></div>
-<img className='home__blob-img' /> */}
+
 
 export default function Home() {
-    const [navState, setNavState] = useState('')
+
     
 
-   
+ 
   return (
             <div className='home__container container grid'>
                 <div className='home__content grid'>
                     <div className='home__social'>
-                        <a href='#' className='home__social-icon'>
+                        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+                    <a href='#' className='home__social-icon'>
                            <UilLinkedinAlt />
                         </a>
-
+                           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                         <a href='https://www.dribbble.com' className='home__social-icon'>
                             <UilDribbble />
                         </a>
-
+                        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                         <a href='#' className='home__social-icon'>
                             <UilGithubAlt />
                         </a>
@@ -39,12 +38,14 @@ export default function Home() {
                             <h1 className='home__title'>Hi I'am Bobai</h1>
                             <h3 className='home__subtitle'>Frontend developer</h3>
                             <p className='home__description'> vzxcv zv zvz</p>
+                            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                             <a href='' className='button botton--flex'>
                                  Contact Me <UilMessage size='17' className='button__icon' />
                             </a>
                         </div>
                 </div>
                    <div className='home__scroll'>
+                    {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                       <a href='' className='home__scroll-button button--flex'>
                          <UilMouseAlt className='home__scroll-mouse' />
                          <span className='home__scroll-name'>Scroll down</span>
