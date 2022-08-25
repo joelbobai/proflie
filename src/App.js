@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 import Scrollup from './components/Scrollup';
 import Main from './pages/main';
 import './App.css';
-import {Link, scroller} from 'react-scroll';
+import {scroller} from 'react-scroll';
 import alanBtn from "@alan-ai/alan-sdk-web";
 
 
