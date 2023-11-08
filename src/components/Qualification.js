@@ -82,11 +82,11 @@ export default function Qualification() {
               <div>
                 <h3 className="qualification_title">Web Design</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institute
+                  self-taught
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2014 - 2017
+                  2021 ----
                 </div>
               </div>
             </div>
@@ -96,11 +96,11 @@ export default function Qualification() {
               <div>
                 <h3 className="qualification_title">Web Development</h3>
                 <span className="qualification__subtitle">
-                  Peru - University
+                 self-taught
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2017 - 2019
+                  2021 ----
                 </div>
               </div>
 
@@ -122,11 +122,11 @@ export default function Qualification() {
               <div>
                 <h3 className="qualification_title">Master in Ui/Ux</h3>
                 <span className="qualification__subtitle">
-                  Peru - Institute
+                  self-taught
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2019 - 2021
+                  2022 ----
                 </div>
               </div>
             </div>
