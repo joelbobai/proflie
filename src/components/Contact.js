@@ -40,8 +40,8 @@ export default function Contact() {
                 Nigeria, Phase 1, Federal Capital Territory
               </span>
             </div>
-          </div>
-        </div> */}
+          </div> */}
+        </div> 
 
         <form action="" className="contact__form grid">
           <div className="contact__inputs grid">
