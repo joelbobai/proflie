@@ -17,8 +17,8 @@ export default function Contact() {
             <div>
               <h3 className="contact__title">Call Me</h3>
               <span className="contact__subtitle">
-                {/*+2348027663942 
-                <br />*/}
+                {/* +2348027663942 
+                <br /> */}
                 +2348054093530
               </span>
             </div>
