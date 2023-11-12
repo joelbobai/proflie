@@ -17,8 +17,8 @@ export default function Contact() {
             <div>
               <h3 className="contact__title">Call Me</h3>
               <span className="contact__subtitle">
-                +2348027663942
-                <br />
+                {/*+2348027663942 
+                <br />*/}
                 +2348054093530
               </span>
             </div>
@@ -32,7 +32,7 @@ export default function Contact() {
               </span>
             </div>
           </div>
-          <div className="contact__information">
+         {/* <div className="contact__information">
             <UilMapMarker className="contact__icon" />
             <div>
               <h3 className="contact__title">Location</h3>
@@ -41,7 +41,7 @@ export default function Contact() {
               </span>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <form action="" className="contact__form grid">
           <div className="contact__inputs grid">
