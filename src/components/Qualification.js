@@ -54,7 +54,7 @@ export default function Qualification() {
             {/* Qualification 1*/}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification_title">Computer</h3>
+                <h3 className="qualification_title">Computer Science</h3>
                 <span className="qualification__subtitle">
                   University of the People
                 </span>
