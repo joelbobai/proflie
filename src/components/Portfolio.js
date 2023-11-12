@@ -20,7 +20,7 @@ export default function Portfolio() {
       id: 1,
       title: "WELFARE",
       content:
-        "Kenned Omosun Charity Foundation is dedicated to making a positive impact on vulnerable persons who stands the risk of the menace of human trafficking and illegal migration!",
+        "I created, frontend for the Kenned Omosun Charity Foundation using React involves designing a user interface that allows users to interact with the information and services provided by the foundation.",
       href: "https://kennedyomosuncharityfoundation.org",
       image: "/img/Screenshot 2023-11-08 185037.png",
     },
@@ -28,15 +28,15 @@ export default function Portfolio() {
       id: 2,
       title: "Covenant Foundation Schools",
       content:
-        "Covenant Foundation Schools, founded in Nigeria with a core mandate of meeting 21st century demands for quality education and wholistic child development.....",
+        "I built a web application that can handle various aspects of school management, such as student enrollment, subject management, grades, and more.",
       href: "https://cfschools.com.ng/",
       image: "/img/Screenshot 2023-11-08 184849.png",
     },
     {
       id: 3,
-      title: "luxolite consult international",
+      title: "Luxolite Consult International",
       content:
-        "Business Consulting is a management consulting firm founded in 2017. We specialize in offering strategic, financial, and operational consulting services to companies across....",
+        "I created, frontend for a business consulting firm like 'Business Consulting', and I designing a user interface that allows users to interact with the information and services provided by the company",
       href: "https://luxoliteconsultint.com/",
       image: "/img/Screenshot 2023-11-08 184621.png",
     },
