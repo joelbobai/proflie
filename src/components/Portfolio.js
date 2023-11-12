@@ -36,7 +36,7 @@ export default function Portfolio() {
       id: 3,
       title: "Luxolite Consult International",
       content:
-        "I created, frontend for a business consulting firm like 'Business Consulting', and I designing a user interface that allows users to interact with the information and services provided by the company",
+        "I created, frontend for a business consulting firm like (Business Consulting), and I designing a user interface that allows users to interact with the information and services provided by the company.",
       href: "https://luxoliteconsultint.com/",
       image: "/img/Screenshot 2023-11-08 184621.png",
     },
