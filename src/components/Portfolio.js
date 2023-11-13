@@ -136,7 +136,8 @@ export default function Portfolio() {
                         <a
                           href={data.href}
                           className="button button--flex button--small portfolio__button"
-                        >
+                           style={{ margin: "0px 0px 40px 0px" }}
+                            >
                           Demo
                           <UilArrowRight className="button__icon" />
                         </a>
