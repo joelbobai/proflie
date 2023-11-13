@@ -20,7 +20,7 @@ export default function Portfolio() {
       id: 1,
       title: "WELFARE",
       content:
-        "I created, frontend for the Kenned Omosun Charity Foundation using React involves designing a user interface that allows users to interact with the information and services provided by the foundation.",
+        "I created, frontend for the Kenned Omosun Charity Foundation using React that involves designing a user interface that allows users to interact with the information and services provided by the foundation.",
       href: "https://kennedyomosuncharityfoundation.org",
       image: "/img/Screenshot 2023-11-08 185037.png",
     },
@@ -36,7 +36,7 @@ export default function Portfolio() {
       id: 3,
       title: "Luxolite Consult International",
       content:
-        "I created the frontend for a business consulting firm like (Business Consulting), and I designing a user interface that allows users to interact with the information and services provided by the company.",
+        "I created the frontend for a business consulting firm, and designed a user interface that allowed users to interact with the information and services provided by the company.",
       href: "https://luxoliteconsultint.com/",
       image: "/img/Screenshot 2023-11-08 184621.png",
     },
@@ -51,7 +51,7 @@ export default function Portfolio() {
     {
       id: 5,
       title: "Mishal Medi & Mart",
-      content: `I built a mobile application for "Mishal Supermarket and Pharmacy Limited" that can handle various aspects of checkout system, such as product catalog, a shopping cart. Using high-quality images and organize they products in a user-friendly manner.`,
+      content: `I built a mobile application for "Mishal Supermarket and Pharmacy Limited" that can handle various aspects of checkout system, such as product catalog and shopping cart. Using high-quality images and organised their products in a user-friendly manner.`,
       href: "https://play.google.com/store/apps/details?id=com.web.mishal_app",
       image: "/Screenshot 2023-11-12 181900.png",
     },
@@ -59,7 +59,7 @@ export default function Portfolio() {
       id: 6,
       title: "Ring Fantasy",
       content:
-        "I created an algorithm for a fantasy basketball game involves designing the logic that governs various aspects of the game, including drafting players, managing finances, simulating matches.",
+        "I created an algorithm for a fantasy basketball game that involves designing the logic that governs various aspects of the game, including drafting players, managing finances and simulating matches.",
       href: "https://play.google.com/store/apps/details?id=com.sixtemia.ringfantasy",
       image: "/Screenshot 2023-11-13 181947.png",
     },
@@ -67,7 +67,7 @@ export default function Portfolio() {
       id: 7,
       title: "Social Media UI",
       content:
-        "I created a user-friendly UI for this Social Media web app and an interface that is intuitive, visually appealing, and encourages user engagement.",
+        "I created a user-friendly UI for a Social Media web app, and an interface that is intuitive, visually appealing and encourages user engagement.",
       href: "https://yudahtech.github.io/YudahTech_social-media/",
       image: "/Screenshot 2023-11-13 183951.png",
     },
@@ -75,7 +75,7 @@ export default function Portfolio() {
       id: 8,
       title: "Virtual Meeting Application",
       content:
-        "I created a virtual meeting web application that has various features and considerations to provide a seamless and effective experience for users",
+        "I created a virtual meeting web application, that has various features and considerations, to provide a seamless and effective experience for users",
       href: "https://ckwvwosj88845qojnnw2ldyuc-5u4jrz147-joelbobai.vercel.app/create",
       image: "/Screenshot 2023-11-13 191039.png",
     },
@@ -83,7 +83,7 @@ export default function Portfolio() {
       id: 9,
       title: "Joejoe Voice Assistant",
       content:
-        "I built voice assistant that has, integrating automatic speech recognition (ASR), natural language processing (NLP), and other technologies to understand and respond to user commands.",
+        "I built a voice assistant that has integrating automatic speech recognition (ASR), natural language processing (NLP), and other technologies to understand and respond to user commands.",
       href: "https://ai-joejoe.netlify.app/",
       image: "/Screenshot 2023-11-13 191119.png",
     },
@@ -91,7 +91,7 @@ export default function Portfolio() {
       id: 10,
       title: "ZINTO-PINTO",
       content:
-        "I created a the frontend for ZINTOPINTO, designing a visually appealing and user-friendly website that reflects the luxury, comfort, and unique experiences offered by the service apartment rental company.",
+        "I created the frontend for ZINTOPINTO, designing a visually appealing and user-friendly website, that reflects the luxury, comfort, and the unique experiences offered by the service apartment rental company.",
       href: "https://zintopinto.com/",
       image: "/Screenshot 2023-11-13 191329.png",
     },
